@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PortDetails.cs" />
     <Compile Include="Static_HttpClient.cs" />
     <Compile Include="Using_HttpClient.cs" />
     <Compile Include="Program.cs" />
